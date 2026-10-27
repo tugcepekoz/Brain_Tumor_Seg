@@ -89,6 +89,8 @@ The model achieved the following reported segmentation metrics:
 
 The results indicate that the model can identify tumor regions while maintaining high specificity. Some segmentation errors remain, particularly around small tumors and unclear tumor boundaries.
 
+![Segmentation Result](Ekran%20görüntüsü%202026-10-27%20143125.png)
+
 ## Technologies Used
 
 - Python
