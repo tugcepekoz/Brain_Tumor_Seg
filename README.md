@@ -16,7 +16,7 @@ The project explores medical image preprocessing, data augmentation, model train
 
 ## Dataset
 
-The project uses the publicly available [Brain Tumor Dataset — Segmentation and Classification](https://www.kaggle.com/datasets/indk214/brain-tumor-datasetsegmentation-and-classification) from Kaggle.
+The project uses the publicly available [Brain Tumor Dataset — Segmentation and Classification](https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification) from Kaggle.
 
 The segmentation dataset contains MRI images and their corresponding tumor masks for three tumor types:
 
