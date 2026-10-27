@@ -48,7 +48,8 @@ The following transformations were applied to improve model generalization and r
 - Small-angle rotations
 - Brightness and contrast adjustments
 - Mild noise addition
-![Augmentation Result](Ekran görüntüsü 2026-10-27 143107.png)
+
+![Büyütme Sonucu](Ekran%20görüntüsü%202026-10-27%20143107.png)
 
 ### 3. Model Architecture
 
